@@ -12,9 +12,9 @@ To get started, you need to clone the repository and install the required depend
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/nfs-handtracking.git
+    git clone https://github.com/sanjail3/Nfs-Hand-Tracking.git
     ```
-    Replace `your-username` with your actual GitHub username.
+    
 
 
 2. **Install the Required Libraries**
